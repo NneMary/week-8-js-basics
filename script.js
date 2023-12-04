@@ -15,16 +15,16 @@ console.log(evenNumber(8));
 //where n1 is the first input/parameter and n2 is the second input/parameter
 
 function numbers(n1, n2) {
-    let n1 = 2;
-    let n2 = 4;
+    let x = 2;
+    let y = 4;
 
     if(n1 == n2) {
         return 'n1 = n2'
     }else {
-        return 'not thesame'
+        return 'n1 and n2'
     }
 }
-console,log(numbers(2,4));
+console.log(numbers(2,4));
 
 
 //Create a function that sum the values in-between two numbers. 
