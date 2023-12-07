@@ -21,7 +21,7 @@ function randomNumber(min, max) {
 
 }
 
-userGuess = 50;
+console.log(userGuess = 20)
 
 randomNumber(1, 100);
 
